@@ -110,5 +110,5 @@ If you'd like to support me or any of my projects, you can do so here:
 ### 🕹️ Contribution Graph
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Cartethyiaaa/Cartethyiaaa/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph"/>
+    <img src="./assets/acrade-contributions.svg" alt="Pac-Man Contribution Graph"/>
 </div>
