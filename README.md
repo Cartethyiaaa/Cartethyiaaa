@@ -99,11 +99,6 @@ If you'd like to support me or any of my projects, you can do so here:
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img height=165 src="https://github-readme-stats.vercel.app/api?username=Cartethyiaaa&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-    <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cartethyiaaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cartethyiaaa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
